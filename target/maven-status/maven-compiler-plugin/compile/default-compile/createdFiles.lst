@@ -1,9 +1,0 @@
-aleph\ops\account\domain\AccountDAOImpl.class
-aleph\ops\account\entity\Account.class
-aleph\ops\common\config\PersistenceManager.class
-aleph\ops\account\ui\AccountController.class
-aleph\ops\account\domain\AccountDAO.class
-aleph\ops\common\config\WebAppConfiguration.class
-aleph\ops\account\service\AccountService.class
-aleph\ops\account\service\AccountServiceImpl.class
-aleph\ops\common\config\WebAppInitializer.class
