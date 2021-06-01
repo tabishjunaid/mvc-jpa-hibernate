@@ -4,6 +4,7 @@ import java.util.List;
 
 import aleph.ops.account.entity.Account;
 
+
 public interface AccountDAO {
 	
 	public List<Account> getAccounts();
@@ -12,3 +13,5 @@ public interface AccountDAO {
     
     public Account getAccount(Long id);
 }
+
+// Another class
